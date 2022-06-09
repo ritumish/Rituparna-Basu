@@ -82,16 +82,7 @@ A versatile Fintech professional with 10+ years of experience in product and pro
 
 # Tools
 
-- MadCap Flare
-- Adobe Framemaker
-- Oxygen XML
-- Confluence
-- JIRA
-- Camtasia
-- Snaggit
-- MDG
-- SAP
-- Tally ERP 9
+`MadCap Flare`, `Adobe Framemaker`, `Oxygen XML`, `Confluence`, `JIRA`, `Camtasia`, `Snaggit`, `MDG`, `SAP`, `Tally ERP 9`
 
 # Educational Experience
 
@@ -101,5 +92,4 @@ A versatile Fintech professional with 10+ years of experience in product and pro
 | 2009 | B.Com | 75 % |
 | 2006 | 12th | 78 % |
 | 2004 | 10th | 69 % |
-
 
