@@ -43,5 +43,63 @@ A versatile Fintech professional with 10+ years of experience in product and pro
 - [Getting Started Guide_Framemaker](https://drive.google.com/drive/u/0/folders/1QucPAtFj9JjGHXdJYxFe-tprACyhn7bx)
 - [Installation Guide_Oxygen XML](https://drive.google.com/drive/u/0/folders/1Y-98AiZqRiq--4rkItdYrW3E534JviCd)
 
+## Prestige Group as Sr. Finance Executive
+
+### Roles & Responsibilities
+
+- Recording of receipts from customers.
+- Providing monthly customer outstanding.
+- Bank Reconciliation.
+- Booking of Vendor Invoice.
+
+## TecnipFMC as Sr. Finance Executive
+
+### Roles & Responsibilities
+
+- Maintaining P2P cycle.
+- Maintaining O2C cycle.
+- Verifying and accounting vendor invoices.
+- Generating invoices to the customers based on engineering hours.
+- Releasing payment to vendors and accounting amount received from customers.
+- Bank Reconciliation.
+
+## A.K.Nag & Associates as Accountant
+
+### Roles & Responsibilities
+
+- Responsible for book keeping & reconciliation
+- Ensure daily updates of all transactions
+- Income tax, VAT, and other statutory matters with E-filling & Return
+- Preliminarty knowledge in ROC related work.
+- Experience in statutory audit, tax audit, and VAT audit
+
+# Accomplishments & Achievements
+
+- Nominated for BFS award for UAT performed during MDG tool Go-live by Unilever
+- Received appreciation and rewards twice for **Outstanding Contribution in Delivery**
+- Received appreciation and rewards for **Xtramile**
+- Received appreciation and rewards for **Rising star**
+
+# Tools
+
+- MadCap Flare
+- Adobe Framemaker
+- Oxygen XML
+- Confluence
+- JIRA
+- Camtasia
+- Snaggit
+- MDG
+- SAP
+- Tally ERP 9
+
+# Educational Experience
+
+| Year | Degree | Percentage |
+|------|--------|------------|
+| 2011 | M.Com  | 56 % |
+| 2009 | B.Com | 75 % |
+| 2006 | 12th | 78 % |
+| 2004 | 10th | 69 % |
 
 
