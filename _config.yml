@@ -1,0 +1,9 @@
+name: Ritu's website
+description: to be a succesful technical writer
+twitter_username: Ritu
+github_username: ritumish
+author: rituparna.mish@gmail.com
+
+markdown: Kramdown
+
+remote_theme: just-the-docs/just-the-docs
