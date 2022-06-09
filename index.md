@@ -38,8 +38,10 @@ A versatile Fintech professional with 10+ years of experience in product and pro
 
 ### Projects
 
-[Confluence](https://rituparna1987.atlassian.net/wiki/spaces/W6/pages/393230/Release+Note)
+- [Release Notes_Confluence](https://rituparna1987.atlassian.net/wiki/spaces/W6/pages/393230/Release+Note)
+- [User Guide_MadCap Flare](https://drive.google.com/drive/u/0/folders/1_qqMo4s9FIw3S1sMgPKxpYm7jlYrB0Yh)
+- [Getting Started Guide_Framemaker](https://drive.google.com/drive/u/0/folders/1QucPAtFj9JjGHXdJYxFe-tprACyhn7bx)
+- [Installation Guide_Oxygen XML](https://drive.google.com/drive/u/0/folders/1Y-98AiZqRiq--4rkItdYrW3E534JviCd)
 
 
 
-- 
