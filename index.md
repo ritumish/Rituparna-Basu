@@ -38,7 +38,7 @@ A versatile Fintech professional with 10+ years of experience in product and pro
 
 ### Projects
 
-[Confluence] (https://rituparna1987.atlassian.net/wiki/spaces/W6/pages/393230/Release+Note)
+[Confluence](https://rituparna1987.atlassian.net/wiki/spaces/W6/pages/393230/Release+Note)
 
 
 
