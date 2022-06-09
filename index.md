@@ -9,3 +9,24 @@ E-mail: _rituparna.mish@gmail.com_
 A versatile Fintech professional with 10+ years of experience in product and process documentation. Excellent ability to plan, organize, prioritize, and commit to meet deadlines. Highly self motivated, quick learner with excellent analytical and problem solving skills.
 
 # Key Skills
+
+- Experience in preparing User guide, Quick Start guide, Getting started guide, and Release notes
+- Knowledge in `DITA`, `Minimalism`, `Structutred writing`, `Topic based writing`, `Agile`, `DDLC`
+- Experience in Finance & Accounts
+- Capacity to work under tight schedules and liaise effectively with people across hierarchical levels in an organization for smooth project execution
+- Adapt at working and performing under demanding work environments, meeting deadlines on time
+
+# Professional Experience
+
+| Years | Company |
+|-------|---------|
+| Oct 2018 - Till date | Capgemini India Pvt Ltd |
+| Dec 2017 - Oct 2018 | Prestige Group |
+| Apr 2014 - Dec 2017 | Technip FMC |
+| Sep 2011 - Dec 2013 | A.K.Nag & Associates |
+
+## Capgemini India Pvt Ltd as Team Lead for Unilever (Client)
+
+### Roles & Responsibilities
+
+- Single point of contact 
