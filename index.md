@@ -39,9 +39,9 @@ A versatile Fintech professional with 10+ years of experience in product and pro
 ### Projects
 
 - [Release Notes_Confluence](https://rituparna1987.atlassian.net/wiki/spaces/W6/pages/393230/Release+Note)
-- [User Guide_MadCap Flare](https://drive.google.com/drive/u/0/folders/1_qqMo4s9FIw3S1sMgPKxpYm7jlYrB0Yh)
-- [Getting Started Guide_Framemaker](https://drive.google.com/drive/u/0/folders/1QucPAtFj9JjGHXdJYxFe-tprACyhn7bx)
-- [Installation Guide_Oxygen XML](https://drive.google.com/drive/u/0/folders/1Y-98AiZqRiq--4rkItdYrW3E534JviCd)
+- [User Guide_MadCap Flare](https://github.com/ritumish/Rituparna-Basu/blob/main/Assignment%20Wk%207_%20Rituparna%20MCF.zip)
+- [Getting Started Guide_Framemaker](https://github.com/ritumish/Rituparna-Basu/blob/main/Jira_Book%20FM.zip)
+- [Installation Guide_Oxygen XML](https://github.com/ritumish/Rituparna-Basu/blob/main/Dita_Assignment%20XML.zip)
 
 ## Prestige Group as Sr. Finance Executive
 
