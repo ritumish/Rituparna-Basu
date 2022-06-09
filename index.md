@@ -29,4 +29,17 @@ A versatile Fintech professional with 10+ years of experience in product and pro
 
 ### Roles & Responsibilities
 
-- Single point of contact 
+- Single point of contact for all documentations tasks.
+- Interacting/interviewing SME/ Product owners/ Development/QA team for input and clarification.
+- Creating User manual, Internal documentation for Unilever products.
+- Technical reviewing of the manual, guides.
+- Coordinating with various internal customer in different geographical locations.
+- Working closely with PM/POs to assess documentation changes and implement the same.
+
+### Projects
+
+[Confluence] (https://rituparna1987.atlassian.net/wiki/spaces/W6/pages/393230/Release+Note)
+
+
+
+- 
